@@ -1,16 +1,9 @@
 /*******************************************************
-This program was created by the
-CodeWizardAVR V3.12 Advanced
-Automatic Program Generator
-© Copyright 1998-2014 Pavel Haiduc, HP InfoTech s.r.l.
-http://www.hpinfotech.com
 
 Project :  az-8 micro
 Version : 
 Date    : 29/04/2016
-Author  :  barca
-Company : 
-Comments: 
+Author  :  Zahra
 
 
 Chip type               : ATmega16
